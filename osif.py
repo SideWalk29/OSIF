@@ -2,10 +2,7 @@
 #                        Import Module
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
-'''
-     Jangan Direcode ya bosku , tinggal make apa susahnya sih
-'''
-###################################################################
+'''##############################################
 #                             COLOR
 if sys.platform in ["linux","linux2"]:
 	W = "\033[0m"
